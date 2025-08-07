@@ -23,10 +23,23 @@
 - 💬 [Telegram](https://t.me/evsdm1994) 
 
 ## Stack & skills
+ 
+### Development Tools and Languages:
+
+![Header](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=intellijidea&logoColor=f7f7f7)
+![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 
 
 
+### API Tools and Documentation:
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 
+
+
+### Monitoring and Visualization:
+![Header](https://img.shields.io/badge/Grafana-090909?style=for-the-badge&logo=grafana&logoColor=F46800)
+![Header](https://img.shields.io/badge/Kibana-090909?style=for-the-badge&logo=kibana&logoColor=005571)
 ---
 
 Готов к новым вызовам и открыт для сотрудничества!  
