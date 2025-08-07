@@ -35,20 +35,32 @@
 ![Header](https://img.shields.io/badge/RESTAssured-090909?style=for-the-badge&logo=buymeacoffee&logoColor=orange) 
 ![Header](https://img.shields.io/badge/Allure-090909?style=for-the-badge&logo=testrail&logoColor=pink)
 ![Header](https://img.shields.io/badge/TestNG-%236d4c41?logo=testng&logoColor=white)
-![Header](https://img.shields.io/badge/JUnit-%2325a162?logo=junit5&logoColor=white)
+![Header](https://img.shields.io/badge/JUnit%204-%2325a162?logo=junit4&logoColor=white)
 
 ### Build Tools and Containerization:
 ![Header](https://img.shields.io/badge/Gradle-090909?style=for-the-badge&logo=gradle&logoColor=0099FF)
-![Header](https://img.shields.io/badge/Maven-3.8.6-red?logo=apache-maven&logoColor=white)
+![Header](https://img.shields.io/badge/Maven-red?logo=apache-maven&logoColor=white)
 ![Header](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=0099FF)
 
 ### API Tools and Documentation:
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 
+### Databases and Tools:
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white)
+
 ### Monitoring and Visualization:
 ![Header](https://img.shields.io/badge/Grafana-090909?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Header](https://img.shields.io/badge/Kibana-090909?style=for-the-badge&logo=kibana&logoColor=005571)
+
+### Project Management and Collaboration:
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Header](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=confluence&logoColor=136be1)
+
+### Message Brokers
+![Header](https://img.shields.io/badge/Apache%20Kafka-%231572B6?logo=apache-kafka&logoColor=white)
+
 ---
 
 Готов к новым вызовам и открыт для сотрудничества!  
