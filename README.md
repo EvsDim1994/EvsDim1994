@@ -28,7 +28,11 @@
 
 ![Header](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=intellijidea&logoColor=f7f7f7)
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
+![Header](https://img.shields.io/gradle-plugin-portal/v/:pluginId)
 
+### Testing Frameworks and Libraries:
+![Header](https://img.shields.io/badge/selenium-090909?style=for-the-badge&logo=selenium&logoColor=43B02A) 
+![Header](https://img.shields.io/badge/pytest-090909?style=for-the-badge&logo=pytest&logoColor=3776AB)
 
 
 ### API Tools and Documentation:
