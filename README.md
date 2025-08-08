@@ -20,6 +20,7 @@
 - 🔗 [Профиль LinkedIn](https://www.linkedin.com/in/дмитрий-евсюков-qa)
 - 📧 Email: evsyuckov.dmitry@yandex.ru
 - 🌐 [hh.ru](https://volgograd.hh.ru/resume/7f783bfdff0f1f18850039ed1f384e4f6b7866)
+- 🌐 [career.habr.ru](https://career.habr.com/evsdm1994)
 - 💬 [Telegram](https://t.me/evsdm1994) 
 
 ## Stack & skills
